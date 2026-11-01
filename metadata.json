@@ -1,0 +1,6 @@
+{
+  "name": "Bihar Exam Guru",
+  "description": "बिहार बोर्ड (BSEB) कक्षा 9, 10वीं मैट्रिक, 11वीं, 12वीं इंटर एवं NMMS परीक्षा की स्मार्ट तैयारी - टेस्ट सीरीज़, क्विज़ एवं AI गुरु सहायक।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
